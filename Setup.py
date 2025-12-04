@@ -4,7 +4,7 @@ setup(
     name="Bish",
     version="1.0.0",
     author="Muhammad Baloch",
-    author_email="your.email@example.com",  # optional
+    author_email="sgroup131@gmail.com",  # optional
     description="Bish - Phishing & Vulnerability Scanner",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
@@ -32,3 +32,4 @@ setup(
         ],
     },
 )
+
