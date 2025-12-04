@@ -1,0 +1,6 @@
+requests>=2.31.0
+python-whois>=0.8.0
+colorama>=0.4.6
+pyOpenSSL>=24.0.0
+dnspython>=2.6.1
+validators>=0.22.0
